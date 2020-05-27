@@ -1,2 +1,2 @@
-# diamond
-apply seven machine learning algorithms to predict diamond price based on physical features
+# Diamond
+Apply seven machine learning algorithms to predict diamond price based on physical features
